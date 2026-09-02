@@ -28,4 +28,6 @@
 
 ### 📬 मुझसे संपर्क करें:
 
-[![Portfolio ] - https://github.com/seshadrianiruddh-cmd  
+[![Portfolio ] - [https://github.com/seshadrianiruddh-cmd ](https://seshadrianiruddh-cmd.github.io/) 
+
+
