@@ -28,6 +28,6 @@
 
 ### 📬 मुझसे संपर्क करें:
 
-[![Portfolio ] - [https://github.com/seshadrianiruddh-cmd ](https://seshadrianiruddh-cmd.github.io/) 
+[![Portfolio ] - https://portfolio-eight-lime-32.vercel.app/
 
 
